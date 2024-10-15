@@ -16,7 +16,9 @@
         "HoursSpent": 1,
         "Status": "Completed",
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -35,7 +37,9 @@
         "HoursSpent": null,
         "Status": "In Progress",
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -54,7 +58,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -73,7 +79,9 @@
         "HoursSpent": null,
         "Status": "Not Started",
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -92,7 +100,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -111,7 +121,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -130,7 +142,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -149,7 +163,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -168,7 +184,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -187,7 +205,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -206,7 +226,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -225,7 +247,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -244,7 +268,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -263,7 +289,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -282,7 +310,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -301,7 +331,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -320,7 +352,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -339,7 +373,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -358,7 +394,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -377,7 +415,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -396,7 +436,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -415,7 +457,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -434,7 +478,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -453,7 +499,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -472,7 +520,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -491,7 +541,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -510,7 +562,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -529,7 +583,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -548,7 +604,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -567,7 +625,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -586,7 +646,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -605,7 +667,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -624,7 +688,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -643,7 +709,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -662,7 +730,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -681,7 +751,9 @@
         "HoursSpent": null,
         "Status": "Not Started",
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -700,7 +772,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -719,7 +793,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -738,7 +814,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -757,7 +835,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -776,7 +856,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -795,7 +877,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -814,7 +898,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -833,7 +919,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -852,7 +940,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -871,7 +961,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -890,7 +982,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -909,7 +1003,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -928,7 +1024,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -947,7 +1045,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -966,7 +1066,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -985,7 +1087,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1004,7 +1108,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1023,7 +1129,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1042,7 +1150,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1061,7 +1171,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1080,7 +1192,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1099,7 +1213,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1118,7 +1234,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1137,7 +1255,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1156,7 +1276,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1175,7 +1297,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1194,7 +1318,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1213,7 +1339,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1232,7 +1360,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1251,7 +1381,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1270,7 +1402,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1289,7 +1423,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1308,7 +1444,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1327,7 +1465,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1346,7 +1486,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1365,7 +1507,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1384,7 +1528,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1403,7 +1549,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1422,7 +1570,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1441,7 +1591,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1460,7 +1612,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1479,7 +1633,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1498,7 +1654,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1517,7 +1675,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1536,7 +1696,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1555,7 +1717,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1574,7 +1738,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1593,7 +1759,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1612,7 +1780,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1631,7 +1801,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1650,7 +1822,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1669,7 +1843,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1688,7 +1864,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1707,7 +1885,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1726,7 +1906,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1745,7 +1927,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1764,7 +1948,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1783,7 +1969,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1802,7 +1990,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1821,7 +2011,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1840,7 +2032,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1859,7 +2053,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1878,7 +2074,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1897,7 +2095,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1916,7 +2116,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1935,7 +2137,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1954,7 +2158,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1973,7 +2179,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -1992,7 +2200,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2011,7 +2221,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2030,7 +2242,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2049,7 +2263,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2068,7 +2284,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2087,7 +2305,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2106,7 +2326,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2125,7 +2347,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2144,7 +2368,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2163,7 +2389,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2182,7 +2410,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2201,7 +2431,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2220,7 +2452,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2239,7 +2473,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2258,7 +2494,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2277,7 +2515,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2296,7 +2536,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2315,7 +2557,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2334,7 +2578,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2353,7 +2599,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2372,7 +2620,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2391,7 +2641,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2410,7 +2662,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2429,7 +2683,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2448,7 +2704,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2467,7 +2725,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2486,7 +2746,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2505,7 +2767,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2524,7 +2788,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2543,7 +2809,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2562,7 +2830,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2581,7 +2851,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2600,7 +2872,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2619,7 +2893,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2638,7 +2914,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2657,7 +2935,9 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     },
     {
         "1": null,
@@ -2676,6 +2956,8 @@
         "HoursSpent": null,
         "Status": null,
         "": null,
-        "Satisfaction": null
+        "Satisfaction": null,
+        "Relevance": null,
+        "ParticipationRate": null
     }
 ]
