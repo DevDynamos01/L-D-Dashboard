@@ -24,7 +24,10 @@ function App() {
   const [selectedDepartment, setSelectedDepartment] = useState('');
   const [selectedCourse, setSelectedCourse] = useState('');
   const [newEmployee, setNewEmployee] = useState({});  // Track new employee data
+
+  // eslint-disable-next-line no-unused-vars
   const [departments, setDepartments] = useState([]);
+  // eslint-disable-next-line no-unused-vars
   const [courses, setCourses] = useState([]);
 
   useEffect(() => {
@@ -34,10 +37,12 @@ function App() {
     setCourses(uniqueCourses);
   }, [employees]);
 
+  // eslint-disable-next-line no-unused-vars
   const handleDepartmentChange = (e) => {
     setSelectedDepartment(e.target.value);
   };
 
+  // eslint-disable-next-line no-unused-vars
   const handleCourseChange = (e) => {
     setSelectedCourse(e.target.value);
   };
@@ -295,6 +300,6 @@ function App() {
       </table>
     </div>
   );
-}  
+}
 
 export default App;
