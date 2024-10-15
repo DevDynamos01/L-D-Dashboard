@@ -34,8 +34,13 @@ function App() {
     setCourses(uniqueCourses);
   }, [employees]);
 
-  const handleDepartmentChange = (e) => setSelectedDepartment(e.target.value);
-  const handleCourseChange = (e) => setSelectedCourse(e.target.value);
+  const handleDepartmentChange = (e) => {
+    setSelectedDepartment(e.target.value);
+  };
+
+  const handleCourseChange = (e) => {
+    setSelectedCourse(e.target.value);
+  };
 
   // Toggle edit mode for the selected row
   const toggleEdit = (index) => {
@@ -292,4 +297,4 @@ function App() {
   );
 }  
 
-export default App; 
+export default App;
