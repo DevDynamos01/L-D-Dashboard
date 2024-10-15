@@ -1,38 +1,183 @@
+/* General styling for the app */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
 .App {
-  text-align: center;
+  width: 100%; /* Use full width for the main container */
+  margin: 0; /* Remove margin to avoid empty spaces on the sides */
+  padding: 20px; /* Maintain padding for inner content */
+  box-sizing: border-box; /* Ensure padding doesn't affect overall width */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
+/* Header Styling */
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  width: 100%; /* Full width for the header */
+  box-sizing: border-box;
+  margin-bottom: 40px; /* Quarter-row size space below header */
+}
+
+.App-header h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+.App-header p {
+  margin: 5px 0;
+  font-size: 1.1em;
+}
+
+/* Style for the logo */
+.logo {
+  height: 60px; /* Adjust logo size */
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+/* Summary Boxes */
+.summary {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px; /* Reduce gap between summary boxes */
+  margin-bottom: 20px;
+  width: 100%; /* Make summary boxes take up full width */
+  box-sizing: border-box;
+}
+
+.summary div {
+  background-color: white;
+  padding: 10px; /* Reduce padding */
+  border-radius: 8px;
+  width: 30%; /* Adjust size to fit 3 boxes in one row */
+  text-align: center;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.summary div h3 {
+  font-size: 1em;
+  margin-bottom: 5px; /* Reduce space between title and content */
+}
+
+.summary div p {
+  font-size: 0.9em;
+}
+
+/* Layout for Charts and Add Employee Form */
+.layout {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 20px;
+  width: 100%; /* Make layout span full width */
+  box-sizing: border-box;
+}
+
+/* Graphs */
+.graphs {
+  width: 48%; /* Graphs take up half the available space */
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  justify-content: space-between;
+}
+
+.graphs h3 {
+  margin-bottom: 10px;
+}
+
+.charts-left canvas, .charts-right canvas {
+  width: 100%;
+  height: 150px; /* Reduce chart height to make graphs smaller */
+}
+
+/* Form for adding employees */
+form {
+  width: 48%; /* Form takes up the remaining space */
+  background-color: white;
+  padding: 10px; /* Reduce padding */
+  border-radius: 8px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+  height: 260px; /* Set height for the form */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+form input {
+  width: 100%;
+  margin-bottom: 10px; /* Reduce space between inputs */
+  padding: 8px; /* Reduce padding inside inputs */
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+form button {
+  width: 100%;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 10px; /* Slightly reduce padding */
+  text-align: left;
+}
+
+th {
+  background-color: black;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+td {
+  font-size: 0.9em;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+/* Buttons for editing */
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2em;
+  color: black;
+}
+
+button:hover {
+  color: #666;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .summary {
+    flex-direction: column; /* Stack summary boxes vertically */
   }
-  to {
-    transform: rotate(360deg);
+
+  .layout {
+    flex-direction: column; /* Stack form and graphs vertically */
+  }
+
+  form, .graphs {
+    width: 100%;
   }
 }
